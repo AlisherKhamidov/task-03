@@ -62,7 +62,3 @@ git push origin main --force
 git revert <хэш коммита> --no-edit -n
 git commit -m 'сообщение'
 
-
-
-
-
